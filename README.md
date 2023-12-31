@@ -1,4 +1,4 @@
-SQL Integration
+SQL Integration.
 
 Why Databases:
 
